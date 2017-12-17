@@ -1,0 +1,4 @@
+default_group;attribute_set_id;position;code;name;include_attributes
+yes;1;1;general;Main information;1,2,3,4,5,6,7
+no;1;2;feature;Feature;8,9,11
+no;1;6;additionnal_informations;Additionnal informations;10,15,16

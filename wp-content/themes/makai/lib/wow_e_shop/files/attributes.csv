@@ -1,0 +1,19 @@
+is_intrinsic;is_visible_in_front;is_visible_in_front_listing;is_filterable;is_used_for_sort_by;backend_input;frontend_label;code;note;default_value;available_values
+yes;yes;yes;no;no;text;Product SKU;sku;;;
+yes;no;no;yes;yes;text;Price;price;;;
+yes;no;no;no;no;text;Special Price;special_price;;;
+yes;no;no;no;no;checkbox;New product;new_prod;;;
+;no;no;no;no;checkbox;Recommended product;recomend_prod;;;
+;no;no;no;no;checkbox;Best seller product;bestseller_prod;;;
+yes;no;no;no;no;checkbox;Action product;action_prod;;;
+;no;no;no;no;checkbox;Popular product;popular_prod;;;
+;yes;yes;no;no;text;Product weight;product_weight;;;
+;yes;no;no;no;text;Product height;product_height;;;
+;yes;yes;yes;no;select;Color;color;;;Blue,Green,Red
+yes;no;no;no;no;select;Manufacturer;manufacturer;;;
+;no;no;no;no;text;Model;model;;;
+;no;no;no;no;text;Material;product_mater;;;
+yes;no;no;no;no;textarea;Short description;short_description;;;
+yes;no;no;no;no;text;Video;prod_video;;;
+yes;no;no;no;no;text;Discount;discount;;;
+yes;no;no;no;no;map;Location map;location_map;;;
